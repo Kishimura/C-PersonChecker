@@ -1,0 +1,15 @@
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\bin\Debug\net7.0\C-PersonChecker.exe
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\bin\Debug\net7.0\C-PersonChecker.deps.json
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\bin\Debug\net7.0\C-PersonChecker.runtimeconfig.json
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\bin\Debug\net7.0\C-PersonChecker.dll
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\bin\Debug\net7.0\C-PersonChecker.pdb
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\C-PersonChecker.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\C-PersonChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\C-PersonChecker.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\C-PersonChecker.AssemblyInfo.cs
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\C-PersonChecker.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\C-PersonChecker.dll
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\refint\C-PersonChecker.dll
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\C-PersonChecker.pdb
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\C-PersonChecker.genruntimeconfig.cache
+C:\Users\tiago\Desktop\csharppersonchecker\C-PersonChecker\obj\Debug\net7.0\ref\C-PersonChecker.dll
